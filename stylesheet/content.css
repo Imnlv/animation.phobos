@@ -89,6 +89,10 @@ body {
   height: 22%;
 }
 
+.p {
+
+}
+
 .radar1 {
   position: relative;
   width: 35.6%;
@@ -696,7 +700,7 @@ body {
 .rectangle12 {
   width: 0.4%;
   height: 4%;
-  margin: 0 0 0 35%;
+  margin: 0 0 0 37%;
   animation: moveline6 2s linear alternate infinite;
 }
 
@@ -883,6 +887,78 @@ body {
     margin-left: 24%;
 }
 
+.backend {
+  width: 33%;
+  height: 33%;
+  display: block;
+  margin-top: -11.3%;
+  margin-left: 3%;
+}
+
+p {
+    font-family: "BrutalTypeExtraBold";
+      color: #03FF0D;
+}
+
+.p2 {
+  font-size: 19%;
+  line-height: 90%;
+  margin-top: 1.5%;
+  margin-left: 19%;
+}
+
+.p1 {
+  font-size: 22%;
+  line-height: 90%;
+  margin-top: 1%;
+  margin-left: 5%;
+}
+.runtext {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  margin-top: 3%;
+}
+
+
+.prun {
+  animation: prun 3.5s infinite linear;
+}
+
+
+@keyframes prun {
+  0% {transform: translate(0);}
+  100% {transform: translate(-25.5%);}
+}
+
+.labfight {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  margin-top: 2.5%;
+}
+
+.plab {
+  animation: prun 7.5s infinite linear;
+}
+
+.screamline {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  margin-top: 3.5%;
+}
+
+
+.scream {
+  animation: prun 3.5s infinite linear alternate;
+}
+
+
+.blockfuter2 {
+  display: flex;
+}
+
 @keyframes shadowcer {
   0% {box-shadow: 0px 0px 12px rgba(205, 205, 205, 0.7);}
   50% {box-shadow: 0px 0px 15px rgba(205, 205, 205, 1);}
@@ -904,7 +980,7 @@ body {
 }
 
 .block14line {
-  width: 104%;
+  width: 102%;
 }
 
 .block15 {
