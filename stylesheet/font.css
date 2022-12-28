@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "BrutalTypeExtraBold";
+    src: url("../font/BrutalTypeExtraBold.eot");
+    src: url("../font/BrutalTypeExtraBold.eot?#iefix")format("embedded-opentype"),
+    url("../font/BrutalTypeExtraBold.woff") format("woff"),
+    url("../font/BrutalTypeExtraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 800;
+}
