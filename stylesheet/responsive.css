@@ -30,7 +30,7 @@
 }
 
 .block13cer {
-    margin-top: 15.5%;
+    margin-top: 19.5%;
 }
 
   .humanbrain {
@@ -110,6 +110,7 @@
     margin: 7% auto;
 }
 
+
 }
 
 
@@ -141,8 +142,8 @@
  }
 
   .line2 {
-    width: 10%;
-    margin-left: 26.6%;
+    width: 11.4%;
+    margin-left: 25.6%;
     margin-top: -26%;
 }
 
@@ -185,7 +186,7 @@
 }
 
 .block7line {
-    height: 132%;
+    height: 131%;
 }
 
   ._cer7, .cer7_2 {
@@ -193,7 +194,7 @@
 }
 
   .cer7_0, .cer7_1 {
-    margin-left: 2.8%;
+    margin-left: 2.9%;
   }
 
   @keyframes movecer2 {
@@ -212,15 +213,16 @@
   }
 
   .block9line {
-   width: 64%;
+   width: 68%;
    margin-left: 18%;
 }
 
   .block12pic {
-    width: 69%;
+    width: 63%;
     display: block;
-    margin: 7% auto;
+    margin: 9% auto;
 }
+
 
 }
 
@@ -307,6 +309,7 @@
     width: 70%;
   }
 
+
   .block9line {
     width: 66%;
     margin-left: 17%;
@@ -386,7 +389,7 @@
     }
 
     .collbs {
-    width: 45%;
+    width: 38%;
     height: 32%;
     top: -22.8%;
     margin-left: 9%;
@@ -428,9 +431,42 @@
 }
 
   .blockfuter {
-    margin-top: 8.1%;
+    margin-top: 8.4%;
   }
 
+  .hselogo {
+    width: 80%;
+  }
+
+  .backend {
+    margin-top: -14.3%;
+}
+
+  .p2 {
+  font-size: 17%;
+  line-height: 90%;
+  margin-top: 1.2%;
+  margin-left: 19%;
+}
+
+  .scream {
+    width: 404%;
+    margin-top: -0.1%;
+}
+
+  .sayno {
+    width: 404%;
+    margin-top: -0.1%;
+}
+
+  .plab {
+    width: 404%;
+    margin-top: 0.5%;
+  }
+
+  .rectangle12 {
+    margin: 0 0 0 35%;
+}
 
 }
 
@@ -481,16 +517,32 @@
 
 
   .line2 {
-    margin-left: 26.3%;
+    margin-left: 25.3%;
 }
 
   .humanbrain {
-    width: 66%;
-    left: 22%;
+    width: 68%;
+    left: 20%;
 }
 
   .cercile {
     margin-top: -50%;
+    margin-left: 38%;
+}
+
+  ._cer3 {
+    width: 2.4%;
+    margin-top: -36.4%;
+    margin-left: -0.8%;
+    offset-path: path('M3.60156 5.11743H42.7503V97.4493H102.766');
+}
+
+  ._cer2 {
+    width: 2.4%;
+    position: absolute;
+    margin-top: -25.7%;
+    margin-left: 25.3%;
+    offset-path: path('M71.4022 54.3695V5.55566H4');
 }
 
   .humlab1 {
@@ -570,6 +622,11 @@
   100% {border: 1px solid #03FF0D;}
 }
 
+.p2 {
+  font-size: 16%;
+  margin-top: 1.5%;
+}
+
 }
 
 
@@ -587,7 +644,7 @@
   }
 
   .radar1, .radar2, .radar3 {
-    border: 1.4px solid #03FF0D;
+    border: 1.5px solid #03FF0D;
 }
 
     .box1_1 {
@@ -612,7 +669,7 @@
 }
 
   .line2 {
-    margin-left: 26.3%;
+    margin-left: 25.3%;
   }
 
   .block13rec {
@@ -620,7 +677,8 @@
 }
 
   .block9line {
-    margin-left: 18%;
+    margin-left: 19%;
+    width: 67%;
   }
 
     .rectangle14, .rectangle15 {
@@ -648,6 +706,21 @@
   0% {top: 37%;}
   100% {top: 41%;}
   }
+
+   ._cer3 {
+    width: 2.4%;
+    margin-top: -36.4%;
+    margin-left: -1.1%;
+    offset-path: path('M2 2.62073H21.7393V49.1757H57');
+}
+
+  ._cer2 {
+    width: 2.4%;
+    position: absolute;
+    margin-top: -26.3%;
+    margin-left: 23.5%;
+    offset-path: path('M42 32.5202V5H4');
+}
 
 
   .cer7_3 {
@@ -682,6 +755,12 @@
     margin-top: 8.8%;
 }
 
+
+  .backend {
+    margin-top: -12.3%;
+}
+
+
 }
 
 
@@ -694,7 +773,7 @@
   }
   .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
     box-sizing: border-box;
-    border: 1.8px solid #03FF0D;
+    border: 1.5px solid #03FF0D;
   }
 
   .radar1, .radar2, .radar3 {
@@ -719,6 +798,10 @@
 
   .cer7_2,  {
     margin-left: 1.6%;
+}
+
+  .block14 {
+    height: 48.8%;
 }
 
   .cer7_0, .cer7_1 {
@@ -747,6 +830,18 @@
 
      .cercile {
       margin-left: 39%;
+}
+
+  ._cer3 {
+    width: 0%;
+}
+
+  ._cer2 {
+    width: 2%;
+    position: absolute;
+    margin-top: -31.52%;
+    margin-left: 27%;
+    offset-path: path('M22 18.0359V5H4');
 }
 
    .block8 {
@@ -817,7 +912,16 @@
 }
 
   .blockfuter {
-    margin-top:9.1%;
+    margin-top: 8.6%;
+}
+
+  .backend {
+    margin-top: -10.7%;
+}
+
+  .p2 {
+  font-size: 19%;
+  margin-top: %;
 }
 
 }
