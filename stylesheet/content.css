@@ -922,7 +922,7 @@ p {
 
 
 .prun {
-  animation: prun 3.5s infinite linear;
+  animation: prun 3.5s infinite linear alternate;
 }
 
 
@@ -939,7 +939,7 @@ p {
 }
 
 .plab {
-  animation: prun 7.5s infinite linear;
+  animation: prun 7.5s infinite linear alternate;
 }
 
 .screamline {
