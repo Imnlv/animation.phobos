@@ -1,29 +1,28 @@
 @media all and (max-width: 2560px) {
-  body, html {
+
+body, html {
     height: 4000px;
     width: 1921px;
     font-size: 404px;
     line-height: 494px;
   }
 
-
-  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+.blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
     box-sizing: border-box;
     border: 6px solid #03FF0D;
   }
 
-  .box1_1 {
+.box1_1 {
     margin-top: -107.7%;
   }
 
-  .block8 {
+.block8 {
     height: 15.1%;
   }
 
-  .radar1, .radar2, .radar3 {
+.radar1, .radar2, .radar3 {
     border: 7px solid #03FF0D;
- }
- }
+ }}
 
   .line2 {
     margin-left: 33%;
@@ -39,14 +38,14 @@
     width: 63%;
 }
 
-  .collbs {
+.collbs {
     width: 40%;
     height: 33%;
     top: -8.2%;
     margin-left: 9%;
   }
 
-  .humlab1 {
+.humlab1 {
     width: 68%;
     height: 78%;
     position: absolute;
@@ -80,7 +79,7 @@
     margin-left: 1.6%;
 }
 
-  .cer7_0, .cer7_1 {
+.cer7_0, .cer7_1 {
     margin-left: 4.1%;
   }
 
@@ -104,18 +103,19 @@
    margin-left: 18%;
 }
 
-  .block12pic {
+.block12pic {
     width: 70%;
     display: block;
     margin: 7% auto;
-}
+ }
 
 
 }
 
 
 @media all and (max-width: 1920px) {
-  body, html {
+
+body, html {
     height: 4000px;
     width: 1920px;
     font-size: 404px;
@@ -123,37 +123,37 @@
   }
 
 
-  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+.blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
     box-sizing: border-box;
     border: 6px solid #03FF0D;
   }
 
-  .box1_1 {
+.box1_1 {
     margin-top: -122.3%;
   }
 
-  .block8 {
+.block8 {
     height: 15.1%;
   }
 
-  .radar1, .radar2, .radar3 {
+.radar1, .radar2, .radar3 {
     border: 7px solid #03FF0D;
  }
  }
 
   .line2 {
     width: 11.4%;
-    margin-left: 25.6%;
+    margin-left: 24.6%;
     margin-top: -26%;
 }
 
-  .humanbrain {
+.humanbrain {
     bottom: -4%;
     left: 15%;
     width: 72%;
 }
 
-  .collbs {
+.collbs {
     width: 40%;
     height: 30%;
     top: -17.2%;
@@ -173,7 +173,7 @@
     margin-left: 15%;
 }
 
-  .lab {
+.lab {
     width: 76%;
   }
 
@@ -186,14 +186,14 @@
 }
 
 .block7line {
-    height: 131%;
+    height: 132%;
 }
 
-  ._cer7, .cer7_2 {
+._cer7, .cer7_2 {
     margin-left: 0.8%;
 }
 
-  .cer7_0, .cer7_1 {
+.cer7_0, .cer7_1 {
     margin-left: 2.9%;
   }
 
@@ -217,75 +217,76 @@
    margin-left: 18%;
 }
 
-  .block12pic {
+.block12pic {
     width: 63%;
     display: block;
     margin: 9% auto;
-}
+ }
 
 
 }
+
+
 
 @media all and (max-width: 1440px) {
-  body, html {
+
+body, html {
     height: 4000px;
     width: 1920px;
     font-size: 404px;
     line-height: 494px;
   }
 
-  .box1_1 {
+.box1_1 {
     margin-top: -122.4%;
   }
 
-  .block8 {
+.block8 {
     height: 15.1%;
   }
 
-  .humanbrain {
+.humanbrain {
     width: 61.6%;
     margin-left: 5%;
    }
 
-  .humlab1 {
+.humlab1 {
     width: 65%;
     height: 75%;
     margin-bottom: 2%;
     margin-left: 19%;
   }
 
-
-
-  .humanlab2 {
+.humanlab2 {
     width: 68%;
     margin-top: 29%;
     margin-left: 11%;
   }
 
-  .collbs {
+.collbs {
     width: 40%;
     height: 37%;
     top: -10.8%;
     margin-left: 9%;
   }
 
-  .block7line, .block8line {
+.block7line, .block8line {
     width: 53%;
   }
 
-  .cer7_2, ._cer7 {
+.cer7_2, ._cer7 {
     margin-left: 1.7%;
   }
 
-    .cer7_3 {
+.cer7_3 {
     margin-left: 6.5%;
   }
 
-  .cer7_0, .cer7_1 {
+.cer7_0, .cer7_1 {
     margin-left: 4.2%;
- }
+  }
 
-  .cer6_2 {
+.cer6_2 {
     margin-top: 13.4%;
     margin-left: 42%;
   }
@@ -316,8 +317,10 @@
   }
 }
 
+
 @media only screen and (max-device-width: 1280px){
-    body, html {
+
+body, html {
       height: 2470px;
       width: 1280px;
       font-size: 291px;
@@ -333,11 +336,11 @@
     border: 4px solid #03FF0D;
 }
 
-    .hr3, .hr2 {
+.hr3, .hr2 {
     top: -141.5%;
 }
 
-  .box1_1 {
+.box1_1 {
       margin-top: -99.9%;
     }
 
@@ -371,11 +374,11 @@
 }
 
 
-  .strokecer1, .strokecer2 {
+.strokecer1, .strokecer2 {
     width: 5%;
 }
 
-   .humlab1 {
+.humlab1 {
     width: 68%;
     height: 77%;
     position: absolute;
@@ -430,7 +433,7 @@
     margin: 10% auto;
 }
 
-  .blockfuter {
+.blockfuter {
     margin-top: 8.4%;
   }
 
@@ -442,24 +445,24 @@
     margin-top: -14.3%;
 }
 
-  .p2 {
+.p2 {
   font-size: 17%;
   line-height: 90%;
   margin-top: 1.2%;
   margin-left: 19%;
 }
 
-  .scream {
+.scream {
     width: 404%;
     margin-top: -0.1%;
 }
 
-  .sayno {
+.sayno {
     width: 404%;
     margin-top: -0.1%;
 }
 
-  .plab {
+.plab {
     width: 404%;
     margin-top: 0.5%;
   }
@@ -477,14 +480,15 @@
 }
 
 @media all and (max-width: 1024px) {
-  body, html {
+
+body, html {
     height: 2520px;
     width: 1024px;
     font-size: 240px;
     line-height: 294px;
   }
 
-  .blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
+.blockfuter, .block0, .block1, .block2, .block3, .block4, .block5, .block6, .block7, .block8, .block9, .block10, .block11, .block12, .block13, .block14, .block15, .block16, .block17, .block18, .block19 {
     box-sizing: border-box;
     border: 4px solid #03FF0D;
   }
@@ -498,8 +502,10 @@
   }
 }
 
+
 @media all and (max-width: 834px) {
-  body, html {
+
+body, html {
   width: 834px;
   height: 1690px;
   font-size: 195px;
@@ -511,33 +517,33 @@
   border: 3px solid #03FF0D;
 }
 
-  .box1_1 {
+.box1_1 {
     margin-top: -104.8%;
 }
 
 
-  .line2 {
+.line2 {
     margin-left: 25.3%;
 }
 
-  .humanbrain {
+.humanbrain {
     width: 68%;
     left: 20%;
 }
 
-  .cercile {
+.cercile {
     margin-top: -50%;
     margin-left: 38%;
 }
 
-  ._cer3 {
+._cer3 {
     width: 2.4%;
     margin-top: -36.4%;
     margin-left: -0.8%;
     offset-path: path('M3.60156 5.11743H42.7503V97.4493H102.766');
 }
 
-  ._cer2 {
+._cer2 {
     width: 2.4%;
     position: absolute;
     margin-top: -25.7%;
@@ -545,78 +551,81 @@
     offset-path: path('M71.4022 54.3695V5.55566H4');
 }
 
-  .humlab1 {
+.humlab1 {
     width: 74%;
     height: 80%;
     left: 2%;
 }
 
-  .collbs {
+.collbs {
     width: 38%;
     height: 32%;
     top: -21.8%;
     margin-left: 9%;
 }
 
-  .radar1, .radar2, .radar3 {
+.radar1, .radar2, .radar3 {
     border: 3px solid #03FF0D;
 }
-  .rectangle14, .rectangle15 {
-      border: 3px solid #03FF0D;
+
+.rectangle14, .rectangle15 {
+  border: 3px solid #03FF0D;
 }
-  .block9line {
+
+.block9line {
     width: 64%;
 }
 
-  .block12pic {
-    width: 64%;
+.block12pic {
+  width: 64%;
 }
 
-  .block14radar {
-    margin-top: 20%;
+.block14radar {
+  margin-top: 20%;
 }
 
-  .block14line {
-    width: 104%;
-    margin: -17% 0 0 -5%;
+.block14line {
+  width: 104%;
+  margin: -17% 0 0 -5%;
 }
 
-  .strokecer1, .strokecer2 {
-    width: 6%;
-    height: 7%;
+.strokecer1, .strokecer2 {
+  width: 6%;
+  height: 7%;
 }
+
 .cer1 {
-    margin-right: %;
+  margin-right: %;
 }
 
-  .ellipse6 {
-    margin-top: 28%;
+.ellipse6 {
+  margin-top: 28%;
 }
 
-  @keyframes movecer2 {
+@keyframes movecer2 {
   0% {top: 37.5%;}
   100% {top: 38.5%;}
-  }
+}
 
-  @keyframes movecer2_1 {
+@keyframes movecer2_1 {
   0% {top: 37%;}
   100% {top: 41%;}
-  }
-
-  .hr1 {
-    margin-top: 9%;
 }
 
-    .hr2, .hr3 {
-    margin-top: 90%;
+.hr1 {
+  margin-top: 9%;
+}
+
+.hr2, .hr3 {
+ margin-top: 90%;
 }
 
 
-    .cer7_3 {
-    margin-left: 5%;
+.cer7_3 {
+  margin-left: 5%;
 }
 
-  @keyframes strokcer {
+@keyframes strokcer {
   0% {border: 1px solid #03FF0D;}
   50% {border: 4px solid #03FF0D;}
   100% {border: 1px solid #03FF0D;}
@@ -631,7 +640,8 @@
 
 
 @media all and (max-width: 414px) {
-    body, html {
+
+body, html {
     width: 414px;
     height: 880px;
     font-size: 88px;
@@ -647,8 +657,8 @@
     border: 1.5px solid #03FF0D;
 }
 
-    .box1_1 {
-      margin-top: -109.8%;
+.box1_1 {
+  margin-top: -109.8%;
   }
 
   .collbs {
@@ -656,29 +666,29 @@
     top: -14.5%;
 }
 
-  .hr1, .hr2, .hr3 {
-    border: 1.2px solid #00FF0B;
+.hr1, .hr2, .hr3 {
+  border: 1.2px solid #00FF0B;
 }
 
-  .hr1 {
-    margin-top: 11%;
+.hr1 {
+  margin-top: 11%;
 }
 
-  .hr2, .hr3 {
-    margin-top: 98%;
+.hr2, .hr3 {
+  margin-top: 98%;
 }
 
-  .line2 {
-    margin-left: 25.3%;
+.line2 {
+  margin-left: 25.3%;
   }
 
   .block13rec {
     margin-top: 11%;
 }
 
-  .block9line {
-    margin-left: 19%;
-    width: 67%;
+.block9line {
+  margin-left: 19%;
+  width: 67%;
   }
 
     .rectangle14, .rectangle15 {
@@ -687,85 +697,81 @@
     margin-left: 22%;
 }
 
-    @keyframes strokcer {
+@keyframes strokcer {
   0% {border: 1px solid #03FF0D;}
   50% {border: 2px solid #03FF0D;}
   100% {border: 1px solid #03FF0D;}
 }
 
-  ._1column, ._2column {
-    margin-bottom: -22%;
+._1column, ._2column {
+  margin-bottom: -22%;
 }
 
-    @keyframes movecer2 {
+@keyframes movecer2 {
   0% {top: 37%;}
   100% {top: 38.5%;}
-  }
+}
 
-  @keyframes movecer2_1 {
+@keyframes movecer2_1 {
   0% {top: 37%;}
   100% {top: 41%;}
-  }
-
-   ._cer3 {
-    width: 2.4%;
-    margin-top: -36.4%;
-    margin-left: -1.1%;
-    offset-path: path('M2 2.62073H21.7393V49.1757H57');
 }
 
-  ._cer2 {
-    width: 2.4%;
-    position: absolute;
-    margin-top: -26.3%;
-    margin-left: 23.5%;
-    offset-path: path('M42 32.5202V5H4');
+._cer3 {
+  width: 2.4%;
+  margin-top: -36.4%;
+  margin-left: -1.1%;
+  offset-path: path('M2 2.62073H21.7393V49.1757H57');
 }
 
-
-  .cer7_3 {
-    margin-left: 4.8%;
+._cer2 {
+  width: 2.4%;
+  position: absolute;
+  margin-top: -26.3%;
+  margin-left: 23.5%;
+  offset-path: path('M42 32.5202V5H4');
 }
 
-
-  .humanbrain {
-    width: 71%;
-    left: 19%;
+.cer7_3 {
+  margin-left: 4.8%;
 }
 
-  .block8line {
-    height: 114%;
-    margin-top: -9%;
+.humanbrain {
+  width: 71%;
+  left: 19%;
 }
 
-    .block7line {
-    height: 135%;
-    margin-top: -9%;
+.block8line {
+  height: 114%;
+  margin-top: -9%;
 }
 
-  .block16 {
-    height: 16.95%;
+.block7line {
+  height: 135%;
+  margin-top: -9%;
+}
+
+.block16 {
+  height: 16.95%;
   }
 
   .block12pic {
     width: 68%;
 }
 
-  .blockfuter {
-    margin-top: 8.8%;
+.blockfuter {
+  margin-top: 8.8%;
 }
 
-
-  .backend {
-    margin-top: -12.3%;
+.backend {
+  margin-top: -12.3%;
 }
-
 
 }
 
 
 @media all and (max-width: 320px) {
-  body, html {
+body, html {
     width: 320px;
     height: 670px;
     font-size: 64px;
@@ -788,23 +794,23 @@
     border: 1px solid #00FF0B;
 }
 
-  .hr2, .hr3 {
+.hr2, .hr3 {
     margin-top: 89%;
 }
 
-  .cer7_3 {
+.cer7_3 {
     margin-left: 4.7%;
 }
 
-  .cer7_2,  {
+.cer7_2,  {
     margin-left: 1.6%;
 }
 
-  .block14 {
+.block14 {
     height: 48.8%;
 }
 
-  .cer7_0, .cer7_1 {
+.cer7_0, .cer7_1 {
     margin-left: 2.8%;
   }
 
@@ -822,21 +828,21 @@
     margin-top: 10%;
 }
 
-  .line2 {
+.line2 {
     width: 9.4%;
     margin-top: -31%;
     margin-left: 26.7%;
 }
 
-     .cercile {
+.cercile {
       margin-left: 39%;
 }
 
-  ._cer3 {
+._cer3 {
     width: 0%;
 }
 
-  ._cer2 {
+._cer2 {
     width: 2%;
     position: absolute;
     margin-top: -31.52%;
@@ -844,11 +850,11 @@
     offset-path: path('M22 18.0359V5H4');
 }
 
-   .block8 {
+.block8 {
     height: 15.2%;
 }
 
-   .box1_1 {
+.box1_1 {
     margin-top: -108.6%;
   }
 
@@ -859,67 +865,66 @@
     margin-left: 9%;
 }
 
-  .block12pic {
+.block12pic {
     width: 67%;
 }
 
-  .strokecer1, .strokecer2 {
+.strokecer1, .strokecer2 {
     width: 6%;
     height: 7%;
     border: 1px solid #03FF0D;
 }
 
-
-  @keyframes strokcer {
+@keyframes strokcer {
   0% {border: 1px solid #03FF0D;}
   50% {border: 2px solid #03FF0D;}
   100% {border: 1px solid #03FF0D;}
 }
 
-  .block13cer {
+.block13cer {
     width: 31%;
     margin-top: 7%;
 }
 
-  .rectangle14, .rectangle15 {
+.rectangle14, .rectangle15 {
     height: 6px;
     border: 1px solid #03FF0D;
     margin-left: 24%;
 }
 
-  .humanbrain {
+.humanbrain {
     width: 70%;
     margin-left: 1%;
 }
 
-  .cer3 {
+.cer3 {
     top: 19%;
     left: 10%;
 }
 
-  .block9line {
+.block9line {
     width: 67%;
 }
 
-  .block7line {
+.block7line {
     height: 134%;
 }
 
-  #boxbox {
+#boxbox {
     display: block;
     flex-direction: column;
     width: 100%;
 }
 
-  .blockfuter {
+.blockfuter {
     margin-top: 8.6%;
 }
 
-  .backend {
+.backend {
     margin-top: -10.7%;
 }
 
-  .p2 {
+.p2 {
   font-size: 19%;
   margin-top: %;
 }
